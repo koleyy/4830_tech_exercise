@@ -1,0 +1,7 @@
+127.0.0.1 - - [13/Oct/2023:14:23:07 -0500] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [13/Oct/2023:14:23:09 -0500] "GET /tech_one/insert_jaixen.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [13/Oct/2023:14:23:14 -0500] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [13/Oct/2023:14:23:14 -0500] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [13/Oct/2023:14:23:35 -0500] "POST /tech_one/SimpleFormInsert HTTP/1.1" 200 444
+0:0:0:0:0:0:0:1 - - [13/Oct/2023:14:23:39 -0500] "GET /tech_one/search_jaixen.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [13/Oct/2023:14:23:43 -0500] "POST /tech_one/SearchJaixen HTTP/1.1" 200 399

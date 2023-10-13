@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\nikol\Desktop\techExercise\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2996460427.index
+3791278635.index
+3928155318.index
+3599419576.index
+612395936.index
+1430237541.index
